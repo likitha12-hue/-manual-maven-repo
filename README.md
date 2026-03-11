@@ -1,0 +1,1 @@
+# -manual-maven-repo
